@@ -103,7 +103,7 @@ for sentence, sentiment in zip(test_sentences, predictions):
 ```
 
 ## OUTPUT:
-![Screenshot 2025-06-04 185356](https://github.com/user-attachments/assets/bf8be2ae-52ac-4cf4-a056-f77d7232d554)
+![Screenshot 2025-06-04 190413](https://github.com/user-attachments/assets/a6ee4973-42f8-4f39-886c-1ff4058344a2)
 
 ## RESULT:
 The sentiment analysis model was successfully implemented using NLP and the Naive Bayes algorithm, achieving ~100% accuracy on the test data. It accurately classified both existing and new sentences, demonstrating effective sentiment detection.
