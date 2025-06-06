@@ -1,4 +1,4 @@
-# Sentiment-analysis-with-LR
+# Sentiment-analysis-with-NAIVE-BAYES-ALGORITHM
 
 ## AIM:
 To develop a sentiment analysis model that classifies text as positive or negative using Natural Language Processing (NLP) and the Naive Bayes algorithm.
