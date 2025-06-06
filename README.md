@@ -1,5 +1,6 @@
 # Sentiment-analysis-with-NAIVE-BAYES-ALGORITHM
-
+## NAME: SANJUSHRI A
+## REGNO:212223040187
 ## AIM:
 To develop a sentiment analysis model that classifies text as positive or negative using Natural Language Processing (NLP) and the Naive Bayes algorithm.
 
